@@ -1,4 +1,4 @@
-let CACHE_NAME = 'blog-react-cache-v1';
+let CACHE_NAME = 'to-do-list-cache-v1';
 const urlsToCache = [
    '/',
    '/index.html',
